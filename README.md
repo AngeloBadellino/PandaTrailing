@@ -1,6 +1,5 @@
-# Nuxt Minimal Starter
-
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Trailing Panda is an SSR application developed using Nuxt, designed for educational use.
+It enhances the viewing experience of personal transaction histories by integrating with the Bitpanda API through a corresponding API key.
 
 ## Setup
 
